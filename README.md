@@ -15,7 +15,7 @@ This report consists of three pages:
 1.	Earning detail
 2.	Job variation
 3.	Job by year 
-4.	
+
 **_Disclaimer:_** _All datasets and reports do not represent any country, company or institutions but just a datasets to demonstrate my capability of Power BI_  
 
 ## Problem Statement
@@ -43,6 +43,8 @@ The following Power BI features were incorporated –
 
 No modelling was done. 
 
+The file contains 11 tables.
+
 ## Visualizations
 
 The file contains 3 pages which are:
@@ -50,6 +52,21 @@ The file contains 3 pages which are:
 2.	Job variation
 3.	Job by year 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/3607421f-0bb0-4ed6-82d4-62b305aefa6b/ReportSection?experience=power-bi)
+
+## Analysis 
+
+**Earning detail**
+
+![Earning detail](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/c1f892c1-281c-40d8-94cc-3bfba781d02e)
+
+**Job Variation** 
+
+![Job variation](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/45f9d7d3-d349-4b71-b7ed-2adcd0a3c7b6)
+
+**Job by Year**
+
+![Job by year](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/31b873d1-0cdf-4b37-8ef9-da9b4096c6b0)
+
 
 
 
