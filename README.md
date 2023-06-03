@@ -39,4 +39,17 @@ The following Power BI features were incorporated –
 - Tooltips, 
 - Filters.
 
+## Data Modelling
+
+No modelling was done. 
+
+## Visualizations
+
+The file contains 3 pages which are:
+1.	Earning detail
+2.	Job variation
+3.	Job by year 
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/3607421f-0bb0-4ed6-82d4-62b305aefa6b/ReportSection?experience=power-bi)
+
+
 
