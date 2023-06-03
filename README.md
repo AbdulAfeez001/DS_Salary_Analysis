@@ -5,6 +5,8 @@
 
 ## Introduction
 
+![intro](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/f84c449b-62ed-407b-b775-bbc8b9e265f5)
+ 
 This is an analysis of the earnings of Data Scientists and other tech job roles across different continents, understanding the favorable patterns which might contribute to the earning variations.
 
 The aim of this project is to show case my analytics and visualization skills using (data scientists’ salary) data with user friendly navigation using power Bi. 
@@ -33,7 +35,7 @@ The following Power BI features were incorporated –
 - Bookmarking,
 - DAX,
 - Page navigation, 
-- Buttons, 
+- Button, 
 - Tooltips, 
 - Filters.
 
