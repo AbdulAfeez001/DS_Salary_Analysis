@@ -39,6 +39,38 @@ The following Power BI features were incorporated –
 - Tooltips, 
 - Filters.
 
+## Data Cleaning 
+
+ **Work Year** 
+ 
+_To be able to use the data well, I had to change the work_year column from whole number to text, then to date_
+
+![Year transf](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/c7284bbb-c840-4ea9-bff6-5a3732d2fa17)
+
+
+**Company Location**  
+
+_The Company Location column would not reflect if used in a map visual as it appears from the file, I categorized the column as country which makes it accessible to reflect in the map visuals._
+
+![company categorize](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/4d26901d-91dd-4948-ab38-c642a0c240bc)
+
+
+**Employee Residence**
+
+_The employee_residence column would not reflect if used in a map visual as it appears from the file, I categorized the column as country which makes it accessible to reflect in the map visuals._
+
+
+![employee category](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/73552a9e-b45d-4853-beff-0859e44cabca)
+
+
+**Salary in USD**
+
+_The salary in USD column appears to be a digit, then for easy comprehension from those who will be reading the report (user-friendly), I changed the column format from whole number to currency._ 
+
+
+![salary in USD](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/5a796ca5-7d97-4dc5-beee-d7904b1cae77)
+
+
 ## Data Modelling
 
 No modelling was done. 
