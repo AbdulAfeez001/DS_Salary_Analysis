@@ -68,5 +68,14 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ![Job by year](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/31b873d1-0cdf-4b37-8ef9-da9b4096c6b0)
 
 
+## Conclusions 
+
+- The top 3 earners by years are: Data Analyst, Data Engineer, and Data scientists which they earn average in USD 1,575,574 and 3,569,397, and 3,227,463 respectively with Data Engineer being the highest earner which might be due to the level of skills required for the job role. 
+
+- The average salary of a data scientist in USD in the United State and Nigeria is 461,538,909 and 390,000 respectively which might be due to the market size and industry of both countries. The United States has highest numbers of Unicorn (1205 at least) which is the biggest market in North America while Nigeria has 5 unicorns which is also the largest market in Africa. 
+
+## Recomendations 
+
+
 
 
