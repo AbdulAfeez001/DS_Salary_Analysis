@@ -16,7 +16,7 @@ This report consists of three pages:
 2.	Job variation
 3.	Job by year 
 
-**_Disclaimer:_** _All datasets and reports do not represent any country, company or institutions but just a datasets to demonstrate my capability of Power BI_  
+**_Disclaimer:_** _All datasets and reports do not represent any country, company or institution but just a datasets to demonstrate my capability of Power BI_  
 
 ## Problem Statement
 
@@ -38,6 +38,10 @@ The following Power BI features were incorporated –
 - Button, 
 - Tooltips, 
 - Filters.
+
+## Data Sourcing 
+
+_This data was extracted from Kaggle and you can find the source [here](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023) for further understanding and perusal_
 
 ## Data Cleaning 
 
@@ -84,6 +88,9 @@ The file contains 3 pages which are:
 2.	Job variation
 3.	Job by year 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/3607421f-0bb0-4ed6-82d4-62b305aefa6b/ReportSection?experience=power-bi)
+
+You can get the pbix version [Data Scientist Salaries.zip](https://github.com/AbdulAfeez001/DS_Salary_Analysis/files/11643332/Data.Scientist.Salaries.zip)
+
 
 ## Analysis 
 
