@@ -1,5 +1,8 @@
 # DS_Salary_Analysis
 
+![DS_Salary](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/7d1ac8cb-d5c2-4065-9730-5b6ef9b56687)
+
+
 ## Introduction
 
 This is an analysis of the earnings of Data Scientists and other tech job roles across different continents, understanding the favorable patterns which might contribute to the earning variations.
