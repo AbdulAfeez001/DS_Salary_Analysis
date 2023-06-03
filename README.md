@@ -76,6 +76,12 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 
 ## Recomendations 
 
+- It would be great if we could have the gender data in the file which gives us the idea of the increase pr decrease in the number of tech enthusiasts over the years.
+
+- The company’s major cities highlight would be great if added to the data where you can analyze the company location by their working policy either Full-time, part-time, hybrid and this would give an idea why a company in New York would be 90% remote by outsourcing out of their locations which gives opportunities to people beyond the borders. 
+
+I believe the above points would also motivate the new influx of people into tech due to the flexibility. 
+
 
 ## Thank You 
 
