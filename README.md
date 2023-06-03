@@ -77,5 +77,8 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ## Recomendations 
 
 
+## Thank You 
+
+![Thank-you](https://github.com/AbdulAfeez001/DS_Salary_Analysis/assets/97398702/857bee6e-8d2d-4748-b96e-5109b58950d5)
 
 
